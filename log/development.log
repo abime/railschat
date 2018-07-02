@@ -1,0 +1,1345 @@
+Started POST "/messenger/webhook" for 2a03:2880:1030:9fc5:face:b00c:0:8000 at 2018-06-28 16:40:20 +0530
+Cannot render console from 2a03:2880:1030:9fc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1030:bfc4:face:b00c:0:8000 at 2018-06-28 16:40:48 +0530
+Cannot render console from 2a03:2880:1030:bfc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1020:8feb:face:b00c:0:8000 at 2018-06-28 16:41:40 +0530
+Cannot render console from 2a03:2880:1020:8feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1020:3ff2:face:b00c:0:8000 at 2018-06-28 16:42:06 +0530
+Cannot render console from 2a03:2880:1020:3ff2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1011:6fc6:face:b00c:0:8000 at 2018-06-28 16:43:01 +0530
+Cannot render console from 2a03:2880:1011:6fc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1011:6fdb:face:b00c:0:8000 at 2018-06-28 16:43:32 +0530
+Cannot render console from 2a03:2880:1011:6fdb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1030:1fe6:face:b00c:0:8000 at 2018-06-28 16:44:15 +0530
+Cannot render console from 2a03:2880:1030:1fe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:10ff:f01b:face:b00c:0:8000 at 2018-06-28 16:44:49 +0530
+Cannot render console from 2a03:2880:10ff:f01b:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1020:6fe5:face:b00c:0:8000 at 2018-06-28 16:45:29 +0530
+Cannot render console from 2a03:2880:1020:6fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/bot?hub.mode=subscribe&hub.challenge=1270796398&hub.verify_token=ayush" for 2a03:2880:1030:9fc6:face:b00c:0:8000 at 2018-06-28 16:45:49 +0530
+Cannot render console from 2a03:2880:1030:9fc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/messenger/webhook" for 2a03:2880:1020:dfe6:face:b00c:0:8000 at 2018-06-28 16:46:03 +0530
+Cannot render console from 2a03:2880:1020:dfe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1030:9fc2:face:b00c:0:8000 at 2018-06-28 16:48:04 +0530
+Cannot render console from 2a03:2880:1030:9fc2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/bot" for 2a03:2880:1020:3fee:face:b00c:0:8000 at 2018-06-28 16:48:48 +0530
+Cannot render console from 2a03:2880:1020:3fee:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3ff6:face:b00c:0:8000 at 2018-06-28 16:48:50 +0530
+Cannot render console from 2a03:2880:1020:3ff6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f019:face:b00c:0:8000 at 2018-06-28 16:48:50 +0530
+Cannot render console from 2a03:2880:10ff:f019:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9fe5:face:b00c:0:8000 at 2018-06-28 16:48:52 +0530
+Cannot render console from 2a03:2880:1020:9fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:9fc3:face:b00c:0:8000 at 2018-06-28 16:48:53 +0530
+Cannot render console from 2a03:2880:1030:9fc3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc3:face:b00c:0:8000 at 2018-06-28 16:48:55 +0530
+Cannot render console from 2a03:2880:1011:2fc3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fec:face:b00c:0:8000 at 2018-06-28 16:48:55 +0530
+Cannot render console from 2a03:2880:1020:3fec:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fcc:face:b00c:0:8000 at 2018-06-28 16:48:57 +0530
+Cannot render console from 2a03:2880:1011:6fcc:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:1fe5:face:b00c:0:8000 at 2018-06-28 16:48:57 +0530
+Cannot render console from 2a03:2880:1030:1fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1010:8ffa:face:b00c:0:8000 at 2018-06-28 16:48:59 +0530
+Cannot render console from 2a03:2880:1010:8ffa:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:8fe7:face:b00c:0:8000 at 2018-06-28 16:49:00 +0530
+Cannot render console from 2a03:2880:1020:8fe7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd4:face:b00c:0:8000 at 2018-06-28 16:49:01 +0530
+Cannot render console from 2a03:2880:1011:6fd4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/messenger/webhook" for 2a03:2880:1020:3ff2:face:b00c:0:8000 at 2018-06-28 16:49:31 +0530
+Cannot render console from 2a03:2880:1020:3ff2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/bot" for 2a03:2880:1020:3fe6:face:b00c:0:8000 at 2018-06-28 16:50:10 +0530
+Cannot render console from 2a03:2880:1020:3fe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NameError (undefined local variable or method `sad' for main:Object):
+  
+app/bot/facebook_messenger.rb:2:in `<main>'
+config/initializers/bot.rb:4:in `block (2 levels) in <main>'
+config/initializers/bot.rb:4:in `each'
+config/initializers/bot.rb:4:in `block in <main>'
+config/initializers/bot.rb:8:in `block in <main>'
+Started POST "/bot" for 2a03:2880:1030:bfc3:face:b00c:0:8000 at 2018-06-28 16:50:10 +0530
+Cannot render console from 2a03:2880:1030:bfc3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1010:8ffb:face:b00c:0:8000 at 2018-06-28 16:50:12 +0530
+Cannot render console from 2a03:2880:1010:8ffb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9fea:face:b00c:0:8000 at 2018-06-28 16:50:14 +0530
+Cannot render console from 2a03:2880:1020:9fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:8fe5:face:b00c:0:8000 at 2018-06-28 16:50:30 +0530
+Cannot render console from 2a03:2880:1020:8fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:9fc0:face:b00c:0:8000 at 2018-06-28 16:50:32 +0530
+Cannot render console from 2a03:2880:1030:9fc0:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc6:face:b00c:0:8000 at 2018-06-28 16:50:32 +0530
+Cannot render console from 2a03:2880:1011:2fc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc4:face:b00c:0:8000 at 2018-06-28 16:50:39 +0530
+Cannot render console from 2a03:2880:1011:2fc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc8:face:b00c:0:8000 at 2018-06-28 16:50:41 +0530
+Cannot render console from 2a03:2880:1011:2fc8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1010:8ffb:face:b00c:0:8000 at 2018-06-28 16:50:42 +0530
+Cannot render console from 2a03:2880:1010:8ffb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/messenger/webhook" for 2a03:2880:1011:6fc9:face:b00c:0:8000 at 2018-06-28 16:50:56 +0530
+Cannot render console from 2a03:2880:1011:6fc9:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1011:6fc5:face:b00c:0:8000 at 2018-06-28 16:52:10 +0530
+Cannot render console from 2a03:2880:1011:6fc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1020:8feb:face:b00c:0:8000 at 2018-06-28 16:53:33 +0530
+Cannot render console from 2a03:2880:1020:8feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1030:4fee:face:b00c:0:8000 at 2018-06-28 16:54:45 +0530
+Cannot render console from 2a03:2880:1030:4fee:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started POST "/messenger/webhook" for 2a03:2880:1020:6fe7:face:b00c:0:8000 at 2018-06-28 16:56:05 +0530
+Cannot render console from 2a03:2880:1020:6fe7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [POST] "/messenger/webhook"):
+  
+actionpack (5.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.0) lib/rails/engine.rb:524:in `call'
+puma (3.11.4) lib/puma/configuration.rb:225:in `call'
+puma (3.11.4) lib/puma/server.rb:632:in `handle_request'
+puma (3.11.4) lib/puma/server.rb:446:in `process_client'
+puma (3.11.4) lib/puma/server.rb:306:in `block in run'
+puma (3.11.4) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/bot?hub.mode=subscribe&hub.challenge=29715744&hub.verify_token=ayush" for 2a03:2880:1030:4fee:face:b00c:0:8000 at 2018-06-28 16:58:15 +0530
+Cannot render console from 2a03:2880:1030:4fee:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:6fe6:face:b00c:0:8000 at 2018-06-28 16:58:29 +0530
+Cannot render console from 2a03:2880:1020:6fe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc7:face:b00c:0:8000 at 2018-06-28 16:58:31 +0530
+Cannot render console from 2a03:2880:1011:2fc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f01e:face:b00c:0:8000 at 2018-06-28 16:58:31 +0530
+Cannot render console from 2a03:2880:10ff:f01e:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd6:face:b00c:0:8000 at 2018-06-28 16:59:21 +0530
+Cannot render console from 2a03:2880:1011:6fd6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:9fc5:face:b00c:0:8000 at 2018-06-28 16:59:23 +0530
+Cannot render console from 2a03:2880:1030:9fc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fee:face:b00c:0:8000 at 2018-06-28 16:59:23 +0530
+Cannot render console from 2a03:2880:1020:3fee:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3ff3:face:b00c:0:8000 at 2018-06-28 17:12:45 +0530
+Cannot render console from 2a03:2880:1020:3ff3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3ff2:face:b00c:0:8000 at 2018-06-28 17:12:47 +0530
+Cannot render console from 2a03:2880:1020:3ff2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f009:face:b00c:0:8000 at 2018-06-28 17:12:47 +0530
+Cannot render console from 2a03:2880:10ff:f009:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:4fe8:face:b00c:0:8000 at 2018-06-28 19:52:12 +0530
+Cannot render console from 2a03:2880:1030:4fe8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f00f:face:b00c:0:8000 at 2018-06-28 19:52:15 +0530
+Cannot render console from 2a03:2880:10ff:f00f:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f01e:face:b00c:0:8000 at 2018-06-28 19:52:15 +0530
+Cannot render console from 2a03:2880:10ff:f01e:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:3fe3:face:b00c:0:8000 at 2018-06-28 19:52:22 +0530
+Cannot render console from 2a03:2880:1030:3fe3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fcb:face:b00c:0:8000 at 2018-06-28 19:52:24 +0530
+Cannot render console from 2a03:2880:1011:6fcb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fda:face:b00c:0:8000 at 2018-06-28 19:52:24 +0530
+Cannot render console from 2a03:2880:1011:6fda:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc4:face:b00c:0:8000 at 2018-06-29 14:59:38 +0530
+Cannot render console from 2a03:2880:1030:bfc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f008:face:b00c:0:8000 at 2018-06-29 14:59:40 +0530
+Cannot render console from 2a03:2880:10ff:f008:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc0:face:b00c:0:8000 at 2018-06-29 14:59:40 +0530
+Cannot render console from 2a03:2880:1011:6fc0:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc0:face:b00c:0:8000 at 2018-06-29 16:37:23 +0530
+Cannot render console from 2a03:2880:1030:bfc0:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:8fe5:face:b00c:0:8000 at 2018-06-29 16:37:26 +0530
+Cannot render console from 2a03:2880:1020:8fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1010:bff4:face:b00c:0:8000 at 2018-06-29 16:37:26 +0530
+Cannot render console from 2a03:2880:1010:bff4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:4fec:face:b00c:0:8000 at 2018-06-29 16:39:14 +0530
+Cannot render console from 2a03:2880:1030:4fec:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Started POST "/bot" for 2a03:2880:1030:bfc0:face:b00c:0:8000 at 2018-06-29 16:43:12 +0530
+Started POST "/bot" for 2a03:2880:10ff:f00e:face:b00c:0:8000 at 2018-06-29 16:43:12 +0530
+Wit::Error (HTTP error code=400):
+Started POST "/bot" for 2a03:2880:1030:1fe8:face:b00c:0:8000 at 2018-06-29 16:43:12 +0530
+Started POST "/bot" for 2a03:2880:1030:4fea:face:b00c:0:8000 at 2018-06-29 16:43:12 +0530
+Cannot render console from 2a03:2880:1030:bfc0:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 2a03:2880:10ff:f00e:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Cannot render console from 2a03:2880:1030:1fe8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 2a03:2880:1030:4fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+app/bot/facebook_messenger.rb:5:in `<main>'
+config/initializers/bot.rb:4:in `block (2 levels) in <main>'
+config/initializers/bot.rb:4:in `each'
+config/initializers/bot.rb:4:in `block in <main>'
+config/initializers/bot.rb:8:in `block in <main>'
+  
+Started POST "/bot" for 2a03:2880:1011:6fcb:face:b00c:0:8000 at 2018-06-29 16:43:14 +0530
+Wit::Error (HTTP error code=400):
+Cannot render console from 2a03:2880:1011:6fcb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+app/bot/facebook_messenger.rb:4:in `<main>'
+config/initializers/bot.rb:4:in `block (2 levels) in <main>'
+config/initializers/bot.rb:4:in `each'
+config/initializers/bot.rb:4:in `block in <main>'
+config/initializers/bot.rb:8:in `block in <main>'
+Started POST "/bot" for 2a03:2880:1011:2fc6:face:b00c:0:8000 at 2018-06-29 16:43:15 +0530
+Cannot render console from 2a03:2880:1011:2fc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:9fc5:face:b00c:0:8000 at 2018-06-29 16:43:15 +0530
+Cannot render console from 2a03:2880:1011:9fc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc9:face:b00c:0:8000 at 2018-06-29 16:43:52 +0530
+Cannot render console from 2a03:2880:1011:6fc9:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fee:face:b00c:0:8000 at 2018-06-29 16:43:52 +0530
+Cannot render console from 2a03:2880:1020:3fee:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc4:face:b00c:0:8000 at 2018-06-29 16:43:53 +0530
+Cannot render console from 2a03:2880:1011:6fc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd6:face:b00c:0:8000 at 2018-06-29 16:45:03 +0530
+Cannot render console from 2a03:2880:1011:6fd6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Wit::Error (HTTP error code=400):
+  
+app/bot/facebook_messenger.rb:4:in `<main>'
+config/initializers/bot.rb:4:in `block (2 levels) in <main>'
+config/initializers/bot.rb:4:in `each'
+config/initializers/bot.rb:4:in `block in <main>'
+config/initializers/bot.rb:8:in `block in <main>'
+Started POST "/bot" for 2a03:2880:1020:dfe4:face:b00c:0:8000 at 2018-06-29 16:45:07 +0530
+Cannot render console from 2a03:2880:1020:dfe4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc0:face:b00c:0:8000 at 2018-06-29 16:46:42 +0530
+Cannot render console from 2a03:2880:1030:bfc0:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3ff7:face:b00c:0:8000 at 2018-06-29 16:47:10 +0530
+Cannot render console from 2a03:2880:1020:3ff7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/bot?hub.mode=subscribe&hub.challenge=354591649&hub.verify_token=ayush" for 2a03:2880:1011:4fca:face:b00c:0:8000 at 2018-06-29 16:50:14 +0530
+Cannot render console from 2a03:2880:1011:4fca:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc5:face:b00c:0:8000 at 2018-06-29 16:50:19 +0530
+Cannot render console from 2a03:2880:1030:bfc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:5fc5:face:b00c:0:8000 at 2018-06-29 16:50:25 +0530
+Cannot render console from 2a03:2880:1030:5fc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc0:face:b00c:0:8000 at 2018-06-29 16:51:21 +0530
+Cannot render console from 2a03:2880:1030:bfc0:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:afc4:face:b00c:0:8000 at 2018-06-29 16:51:23 +0530
+Cannot render console from 2a03:2880:1030:afc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:1fe6:face:b00c:0:8000 at 2018-06-29 16:51:23 +0530
+Cannot render console from 2a03:2880:1030:1fe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:8fe9:face:b00c:0:8000 at 2018-06-29 16:52:09 +0530
+Cannot render console from 2a03:2880:1020:8fe9:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:1fe7:face:b00c:0:8000 at 2018-06-29 16:53:37 +0530
+Started POST "/bot" for 2a03:2880:1011:1fe7:face:b00c:0:8000 at 2018-06-29 16:53:37 +0530
+Started POST "/bot" for 2a03:2880:1030:bfc2:face:b00c:0:8000 at 2018-06-29 16:53:37 +0530
+Started POST "/bot" for 2a03:2880:1011:2fc4:face:b00c:0:8000 at 2018-06-29 16:53:37 +0530
+Cannot render console from 2a03:2880:1030:1fe7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 2a03:2880:1011:1fe7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 2a03:2880:1030:bfc2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 2a03:2880:1011:2fc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:5fc1:face:b00c:0:8000 at 2018-06-29 16:53:39 +0530
+Cannot render console from 2a03:2880:1030:5fc1:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc1:face:b00c:0:8000 at 2018-06-29 16:53:40 +0530
+Cannot render console from 2a03:2880:1011:6fc1:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc6:face:b00c:0:8000 at 2018-06-29 16:53:41 +0530
+Cannot render console from 2a03:2880:1011:2fc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc8:face:b00c:0:8000 at 2018-06-29 16:53:41 +0530
+Cannot render console from 2a03:2880:1011:6fc8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fcf:face:b00c:0:8000 at 2018-06-29 16:53:41 +0530
+Cannot render console from 2a03:2880:1011:6fcf:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:9fc1:face:b00c:0:8000 at 2018-06-29 16:53:41 +0530
+Cannot render console from 2a03:2880:1030:9fc1:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc3:face:b00c:0:8000 at 2018-06-29 16:53:41 +0530
+Cannot render console from 2a03:2880:1011:6fc3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f01e:face:b00c:0:8000 at 2018-06-29 16:53:41 +0530
+Cannot render console from 2a03:2880:10ff:f01e:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc7:face:b00c:0:8000 at 2018-06-29 16:53:41 +0530
+Cannot render console from 2a03:2880:1011:2fc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc4:face:b00c:0:8000 at 2018-06-29 16:53:41 +0530
+Cannot render console from 2a03:2880:1030:bfc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd7:face:b00c:0:8000 at 2018-06-29 16:53:56 +0530
+Cannot render console from 2a03:2880:1011:6fd7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:6feb:face:b00c:0:8000 at 2018-06-29 16:53:58 +0530
+Cannot render console from 2a03:2880:1020:6feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc7:face:b00c:0:8000 at 2018-06-29 16:54:11 +0530
+Cannot render console from 2a03:2880:1030:bfc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc8:face:b00c:0:8000 at 2018-06-29 16:54:13 +0530
+Cannot render console from 2a03:2880:1011:6fc8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:9fc7:face:b00c:0:8000 at 2018-06-29 16:54:15 +0530
+Cannot render console from 2a03:2880:1011:9fc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:1fee:face:b00c:0:8000 at 2018-06-29 16:54:15 +0530
+Cannot render console from 2a03:2880:1011:1fee:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f00b:face:b00c:0:8000 at 2018-06-29 16:54:18 +0530
+Cannot render console from 2a03:2880:10ff:f00b:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:8fea:face:b00c:0:8000 at 2018-06-29 16:54:20 +0530
+Cannot render console from 2a03:2880:1020:8fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc7:face:b00c:0:8000 at 2018-06-29 16:54:20 +0530
+Cannot render console from 2a03:2880:1030:bfc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:4fcc:face:b00c:0:8000 at 2018-06-29 16:54:35 +0530
+Cannot render console from 2a03:2880:1011:4fcc:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:afc1:face:b00c:0:8000 at 2018-06-29 16:54:37 +0530
+Cannot render console from 2a03:2880:1030:afc1:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:1fe7:face:b00c:0:8000 at 2018-06-29 16:54:37 +0530
+Cannot render console from 2a03:2880:1011:1fe7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:afc1:face:b00c:0:8000 at 2018-06-29 16:54:39 +0530
+Cannot render console from 2a03:2880:1030:afc1:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fda:face:b00c:0:8000 at 2018-06-29 16:54:42 +0530
+Cannot render console from 2a03:2880:1011:6fda:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f00e:face:b00c:0:8000 at 2018-06-29 16:54:42 +0530
+Cannot render console from 2a03:2880:10ff:f00e:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1010:bff6:face:b00c:0:8000 at 2018-06-29 16:54:47 +0530
+Cannot render console from 2a03:2880:1010:bff6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc6:face:b00c:0:8000 at 2018-06-29 16:54:49 +0530
+Cannot render console from 2a03:2880:1011:2fc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3feb:face:b00c:0:8000 at 2018-06-29 16:54:49 +0530
+Cannot render console from 2a03:2880:1020:3feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:9fc4:face:b00c:0:8000 at 2018-06-29 17:01:14 +0530
+Cannot render console from 2a03:2880:1011:9fc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9feb:face:b00c:0:8000 at 2018-06-29 17:01:28 +0530
+Cannot render console from 2a03:2880:1020:9feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1011:4fca:face:b00c:0:8000 at 2018-06-29 17:01:59 +0530
+Started POST "/bot" for 2a03:2880:1030:3fe6:face:b00c:0:8000 at 2018-06-29 17:01:59 +0530
+Cannot render console from 2a03:2880:1011:4fca:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 2a03:2880:1030:3fe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1020:3ff1:face:b00c:0:8000 at 2018-06-29 17:02:06 +0530
+Cannot render console from 2a03:2880:1020:3ff1:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1030:1fe6:face:b00c:0:8000 at 2018-06-29 17:02:33 +0530
+Cannot render console from 2a03:2880:1030:1fe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1030:3fe5:face:b00c:0:8000 at 2018-06-29 17:04:11 +0530
+Cannot render console from 2a03:2880:1030:3fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1011:4fc7:face:b00c:0:8000 at 2018-06-29 17:07:16 +0530
+Cannot render console from 2a03:2880:1011:4fc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:2fe4:face:b00c:0:8000 at 2018-06-29 18:27:05 +0530
+Started POST "/bot" for 2a03:2880:1030:9fc7:face:b00c:0:8000 at 2018-06-29 18:27:05 +0530
+Cannot render console from 2a03:2880:1020:2fe4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fe8:face:b00c:0:8000 at 2018-06-29 18:27:05 +0530
+Cannot render console from 2a03:2880:1030:9fc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 2a03:2880:1020:3fe8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:10ff:f008:face:b00c:0:8000 at 2018-06-29 18:28:01 +0530
+Cannot render console from 2a03:2880:10ff:f008:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::FacebookError ((#100) Message cannot be empty, must provide valid attachment or text):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+  
+Facebook::Messenger::FacebookError ((#100) Message cannot be empty, must provide valid attachment or text):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+  
+Facebook::Messenger::FacebookError ((#100) Message cannot be empty, must provide valid attachment or text):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1030:bfc6:face:b00c:0:8000 at 2018-06-29 18:29:34 +0530
+Cannot render console from 2a03:2880:1030:bfc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::FacebookError (An active access token must be used to query information about the current user.):
+  
+app/bot/facebook_messenger.rb:14:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1020:3fee:face:b00c:0:8000 at 2018-06-29 18:32:34 +0530
+Cannot render console from 2a03:2880:1020:3fee:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::FacebookError (An active access token must be used to query information about the current user.):
+  
+app/bot/facebook_messenger.rb:13:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1030:bfc6:face:b00c:0:8000 at 2018-06-29 18:33:59 +0530
+Cannot render console from 2a03:2880:1030:bfc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::FacebookError (An active access token must be used to query information about the current user.):
+  
+app/bot/facebook_messenger.rb:13:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started GET "/bot?hub.mode=subscribe&hub.challenge=206034674&hub.verify_token=ayush" for 2a03:2880:2120:cfd5:face:b00c:0:8000 at 2018-06-29 18:38:43 +0530
+Cannot render console from 2a03:2880:2120:cfd5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/bot?hub.mode=subscribe&hub.challenge=392547986&hub.verify_token=ayush" for 2a03:2880:2131:2fc6:face:b00c:0:8000 at 2018-06-29 18:39:09 +0530
+Cannot render console from 2a03:2880:2131:2fc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/bot?hub.mode=subscribe&hub.challenge=1444939911&hub.verify_token=github" for 2a03:2880:2120:bfcd:face:b00c:0:8000 at 2018-06-29 18:39:13 +0530
+Cannot render console from 2a03:2880:2120:bfcd:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/bot?hub.mode=subscribe&hub.challenge=1212271130&hub.verify_token=ayush" for 2a03:2880:2131:2fc5:face:b00c:0:8000 at 2018-06-29 18:41:26 +0530
+Cannot render console from 2a03:2880:2131:2fc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/bot?hub.mode=subscribe&hub.challenge=1602154148&hub.verify_token=github" for 2a03:2880:2111:4fe2:face:b00c:0:8000 at 2018-06-29 18:41:40 +0530
+Cannot render console from 2a03:2880:2111:4fe2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/bot?hub.mode=subscribe&hub.challenge=1987426670&hub.verify_token=ayush" for 2a03:2880:2111:3fea:face:b00c:0:8000 at 2018-06-29 18:42:23 +0530
+Cannot render console from 2a03:2880:2111:3fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/bot?hub.mode=subscribe&hub.challenge=366045661&hub.verify_token=ayush" for 2a03:2880:2111:4fe3:face:b00c:0:8000 at 2018-06-29 18:44:34 +0530
+Cannot render console from 2a03:2880:2111:4fe3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc9:face:b00c:0:8000 at 2018-06-29 18:46:46 +0530
+Cannot render console from 2a03:2880:1011:2fc9:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd3:face:b00c:0:8000 at 2018-06-29 18:46:49 +0530
+Cannot render console from 2a03:2880:1011:6fd3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc4:face:b00c:0:8000 at 2018-06-29 18:46:50 +0530
+Cannot render console from 2a03:2880:1011:2fc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1010:bff5:face:b00c:0:8000 at 2018-06-29 18:46:53 +0530
+Cannot render console from 2a03:2880:1010:bff5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd5:face:b00c:0:8000 at 2018-06-29 18:46:53 +0530
+Cannot render console from 2a03:2880:1011:6fd5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:4fc8:face:b00c:0:8000 at 2018-06-29 18:46:54 +0530
+Cannot render console from 2a03:2880:1011:4fc8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:3fe4:face:b00c:0:8000 at 2018-06-29 18:46:57 +0530
+Cannot render console from 2a03:2880:1030:3fe4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:3fe3:face:b00c:0:8000 at 2018-06-29 18:46:57 +0530
+Cannot render console from 2a03:2880:1030:3fe3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:dfe6:face:b00c:0:8000 at 2018-06-29 18:47:00 +0530
+Cannot render console from 2a03:2880:1020:dfe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fda:face:b00c:0:8000 at 2018-06-29 18:47:01 +0530
+Cannot render console from 2a03:2880:1011:6fda:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:6fe5:face:b00c:0:8000 at 2018-06-29 18:47:01 +0530
+Cannot render console from 2a03:2880:1020:6fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc6:face:b00c:0:8000 at 2018-06-29 18:47:01 +0530
+Cannot render console from 2a03:2880:1011:2fc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:afc0:face:b00c:0:8000 at 2018-06-29 18:47:04 +0530
+Cannot render console from 2a03:2880:1030:afc0:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9fe8:face:b00c:0:8000 at 2018-06-29 18:47:04 +0530
+Cannot render console from 2a03:2880:1020:9fe8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fdb:face:b00c:0:8000 at 2018-06-29 18:47:05 +0530
+Cannot render console from 2a03:2880:1011:6fdb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f009:face:b00c:0:8000 at 2018-06-29 18:48:57 +0530
+Cannot render console from 2a03:2880:10ff:f009:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd5:face:b00c:0:8000 at 2018-06-29 18:50:32 +0530
+Cannot render console from 2a03:2880:1011:6fd5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+  
+Facebook::Messenger::Bot::BadParameterError ((#100) Param message[text] must be a UTF-8 encoded string):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:10ff:f01b:face:b00c:0:8000 at 2018-06-29 18:52:02 +0530
+Cannot render console from 2a03:2880:10ff:f01b:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:1feb:face:b00c:0:8000 at 2018-06-29 18:52:06 +0530
+Cannot render console from 2a03:2880:1011:1feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:1fe9:face:b00c:0:8000 at 2018-06-29 18:52:06 +0530
+Cannot render console from 2a03:2880:1011:1fe9:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fca:face:b00c:0:8000 at 2018-06-29 18:52:10 +0530
+Cannot render console from 2a03:2880:1011:6fca:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fdb:face:b00c:0:8000 at 2018-06-29 18:52:11 +0530
+Cannot render console from 2a03:2880:1011:6fdb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fee:face:b00c:0:8000 at 2018-06-29 18:52:11 +0530
+Cannot render console from 2a03:2880:1020:3fee:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9feb:face:b00c:0:8000 at 2018-06-29 18:52:11 +0530
+Cannot render console from 2a03:2880:1020:9feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f017:face:b00c:0:8000 at 2018-06-29 18:52:15 +0530
+Cannot render console from 2a03:2880:10ff:f017:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f008:face:b00c:0:8000 at 2018-06-29 18:52:16 +0530
+Cannot render console from 2a03:2880:10ff:f008:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1010:bff4:face:b00c:0:8000 at 2018-06-29 18:52:18 +0530
+Cannot render console from 2a03:2880:1010:bff4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:dfe5:face:b00c:0:8000 at 2018-06-29 18:52:20 +0530
+Cannot render console from 2a03:2880:1020:dfe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f009:face:b00c:0:8000 at 2018-06-29 18:52:20 +0530
+Cannot render console from 2a03:2880:10ff:f009:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:4fcb:face:b00c:0:8000 at 2018-06-29 18:52:21 +0530
+Cannot render console from 2a03:2880:1011:4fcb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f01a:face:b00c:0:8000 at 2018-06-29 18:52:25 +0530
+Cannot render console from 2a03:2880:10ff:f01a:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:4fe7:face:b00c:0:8000 at 2018-06-29 18:52:25 +0530
+Cannot render console from 2a03:2880:1030:4fe7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:6fe5:face:b00c:0:8000 at 2018-06-29 18:52:29 +0530
+Cannot render console from 2a03:2880:1020:6fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9fea:face:b00c:0:8000 at 2018-06-29 18:52:30 +0530
+Cannot render console from 2a03:2880:1020:9fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f013:face:b00c:0:8000 at 2018-06-29 18:52:33 +0530
+Cannot render console from 2a03:2880:10ff:f013:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:4fc7:face:b00c:0:8000 at 2018-06-29 18:52:34 +0530
+Cannot render console from 2a03:2880:1011:4fc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fef:face:b00c:0:8000 at 2018-06-29 18:52:38 +0530
+Cannot render console from 2a03:2880:1020:3fef:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fe4:face:b00c:0:8000 at 2018-06-29 18:52:38 +0530
+Cannot render console from 2a03:2880:1020:3fe4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fe8:face:b00c:0:8000 at 2018-06-29 18:52:42 +0530
+Cannot render console from 2a03:2880:1020:3fe8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9fea:face:b00c:0:8000 at 2018-06-29 18:52:42 +0530
+Cannot render console from 2a03:2880:1020:9fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f01e:face:b00c:0:8000 at 2018-06-29 18:52:46 +0530
+Cannot render console from 2a03:2880:10ff:f01e:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fce:face:b00c:0:8000 at 2018-06-29 18:52:47 +0530
+Cannot render console from 2a03:2880:1011:6fce:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `first' for nil:NilClass):
+  
+app/bot/facebook_messenger.rb:21:in `wit'
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1011:2fca:face:b00c:0:8000 at 2018-06-29 18:52:59 +0530
+Cannot render console from 2a03:2880:1011:2fca:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f01b:face:b00c:0:8000 at 2018-06-29 18:53:00 +0530
+Cannot render console from 2a03:2880:10ff:f01b:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `first' for nil:NilClass):
+  
+app/bot/facebook_messenger.rb:21:in `wit'
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:10ff:f00e:face:b00c:0:8000 at 2018-06-29 18:53:17 +0530
+Cannot render console from 2a03:2880:10ff:f00e:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `first' for nil:NilClass):
+  
+app/bot/facebook_messenger.rb:21:in `wit'
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1011:6fc8:face:b00c:0:8000 at 2018-06-29 18:54:44 +0530
+Cannot render console from 2a03:2880:1011:6fc8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc6:face:b00c:0:8000 at 2018-06-29 18:54:48 +0530
+Cannot render console from 2a03:2880:1030:bfc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:6fe4:face:b00c:0:8000 at 2018-06-29 18:54:48 +0530
+Cannot render console from 2a03:2880:1020:6fe4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd7:face:b00c:0:8000 at 2018-06-29 18:54:51 +0530
+Cannot render console from 2a03:2880:1011:6fd7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f012:face:b00c:0:8000 at 2018-06-29 18:54:52 +0530
+Cannot render console from 2a03:2880:10ff:f012:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:6feb:face:b00c:0:8000 at 2018-06-29 18:54:52 +0530
+Cannot render console from 2a03:2880:1020:6feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:1fe5:face:b00c:0:8000 at 2018-06-29 18:54:52 +0530
+Cannot render console from 2a03:2880:1030:1fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:8fea:face:b00c:0:8000 at 2018-06-29 18:54:57 +0530
+Cannot render console from 2a03:2880:1020:8fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd3:face:b00c:0:8000 at 2018-06-29 18:54:58 +0530
+Cannot render console from 2a03:2880:1011:6fd3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/bot?hub.mode=subscribe&hub.challenge=1191475016&hub.verify_token=ayush" for 2a03:2880:2120:cfd3:face:b00c:0:8000 at 2018-06-29 18:57:18 +0530
+Cannot render console from 2a03:2880:2120:cfd3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fee:face:b00c:0:8000 at 2018-06-29 19:01:55 +0530
+Cannot render console from 2a03:2880:1020:3fee:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd5:face:b00c:0:8000 at 2018-06-29 19:01:58 +0530
+Cannot render console from 2a03:2880:1011:6fd5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:9fc7:face:b00c:0:8000 at 2018-06-29 19:01:58 +0530
+Cannot render console from 2a03:2880:1011:9fc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:4fcb:face:b00c:0:8000 at 2018-06-29 19:02:00 +0530
+Cannot render console from 2a03:2880:1011:4fcb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fdb:face:b00c:0:8000 at 2018-06-29 19:02:01 +0530
+Cannot render console from 2a03:2880:1011:6fdb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f016:face:b00c:0:8000 at 2018-06-29 19:02:02 +0530
+Cannot render console from 2a03:2880:10ff:f016:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:8fe4:face:b00c:0:8000 at 2018-06-29 19:02:04 +0530
+Cannot render console from 2a03:2880:1020:8fe4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:5fc5:face:b00c:0:8000 at 2018-06-29 19:02:04 +0530
+Cannot render console from 2a03:2880:1030:5fc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:1fee:face:b00c:0:8000 at 2018-06-29 19:02:04 +0530
+Cannot render console from 2a03:2880:1011:1fee:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:3fe4:face:b00c:0:8000 at 2018-06-29 19:02:06 +0530
+Cannot render console from 2a03:2880:1030:3fe4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd6:face:b00c:0:8000 at 2018-06-29 19:02:06 +0530
+Cannot render console from 2a03:2880:1011:6fd6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9fe5:face:b00c:0:8000 at 2018-06-29 19:02:07 +0530
+Cannot render console from 2a03:2880:1020:9fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc5:face:b00c:0:8000 at 2018-06-29 19:02:09 +0530
+Cannot render console from 2a03:2880:1011:6fc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:2fc4:face:b00c:0:8000 at 2018-06-29 19:02:09 +0530
+Cannot render console from 2a03:2880:1011:2fc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:6fe9:face:b00c:0:8000 at 2018-06-29 19:02:10 +0530
+Cannot render console from 2a03:2880:1020:6fe9:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f00a:face:b00c:0:8000 at 2018-06-29 19:02:11 +0530
+Cannot render console from 2a03:2880:10ff:f00a:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f018:face:b00c:0:8000 at 2018-06-29 19:02:11 +0530
+Cannot render console from 2a03:2880:10ff:f018:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9fe7:face:b00c:0:8000 at 2018-06-29 19:02:11 +0530
+Cannot render console from 2a03:2880:1020:9fe7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3ff6:face:b00c:0:8000 at 2018-06-29 19:02:13 +0530
+Cannot render console from 2a03:2880:1020:3ff6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:8feb:face:b00c:0:8000 at 2018-06-29 19:02:14 +0530
+Cannot render console from 2a03:2880:1020:8feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fda:face:b00c:0:8000 at 2018-06-29 19:02:15 +0530
+Cannot render console from 2a03:2880:1011:6fda:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f019:face:b00c:0:8000 at 2018-06-29 19:02:16 +0530
+Cannot render console from 2a03:2880:10ff:f019:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:8fea:face:b00c:0:8000 at 2018-06-29 19:02:18 +0530
+Cannot render console from 2a03:2880:1020:8fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9fea:face:b00c:0:8000 at 2018-06-29 19:02:18 +0530
+Cannot render console from 2a03:2880:1020:9fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:5fc0:face:b00c:0:8000 at 2018-06-29 19:02:20 +0530
+Cannot render console from 2a03:2880:1030:5fc0:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fed:face:b00c:0:8000 at 2018-06-29 19:02:21 +0530
+Cannot render console from 2a03:2880:1020:3fed:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd4:face:b00c:0:8000 at 2018-06-29 19:02:24 +0530
+Cannot render console from 2a03:2880:1011:6fd4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd4:face:b00c:0:8000 at 2018-06-29 19:02:24 +0530
+Cannot render console from 2a03:2880:1011:6fd4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:8fe5:face:b00c:0:8000 at 2018-06-29 19:02:26 +0530
+Cannot render console from 2a03:2880:1020:8fe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc4:face:b00c:0:8000 at 2018-06-29 19:02:27 +0530
+Cannot render console from 2a03:2880:1030:bfc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:3fe6:face:b00c:0:8000 at 2018-06-29 19:02:29 +0530
+Cannot render console from 2a03:2880:1030:3fe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc8:face:b00c:0:8000 at 2018-06-29 19:02:29 +0530
+Cannot render console from 2a03:2880:1011:6fc8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:1fec:face:b00c:0:8000 at 2018-06-29 19:02:32 +0530
+Cannot render console from 2a03:2880:1011:1fec:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f009:face:b00c:0:8000 at 2018-06-29 19:02:32 +0530
+Cannot render console from 2a03:2880:10ff:f009:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:9fc7:face:b00c:0:8000 at 2018-06-29 19:02:34 +0530
+Cannot render console from 2a03:2880:1030:9fc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:1fe6:face:b00c:0:8000 at 2018-06-29 19:02:34 +0530
+Cannot render console from 2a03:2880:1030:1fe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:2fe2:face:b00c:0:8000 at 2018-06-29 19:02:36 +0530
+Cannot render console from 2a03:2880:1020:2fe2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:4fea:face:b00c:0:8000 at 2018-06-29 19:02:37 +0530
+Cannot render console from 2a03:2880:1030:4fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:dfe4:face:b00c:0:8000 at 2018-06-29 19:02:39 +0530
+Cannot render console from 2a03:2880:1020:dfe4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:1fe6:face:b00c:0:8000 at 2018-06-29 19:02:39 +0530
+Cannot render console from 2a03:2880:1030:1fe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f00a:face:b00c:0:8000 at 2018-06-29 19:02:41 +0530
+Cannot render console from 2a03:2880:10ff:f00a:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd2:face:b00c:0:8000 at 2018-06-29 19:09:58 +0530
+Cannot render console from 2a03:2880:1011:6fd2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:4fea:face:b00c:0:8000 at 2018-06-29 19:09:59 +0530
+Cannot render console from 2a03:2880:1030:4fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `nlp' for #<Facebook::Messenger::Incoming::Message:0x0000000223ec20>):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1011:6fc7:face:b00c:0:8000 at 2018-06-29 19:10:01 +0530
+Cannot render console from 2a03:2880:1011:6fc7:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `nlp' for #<Facebook::Messenger::Incoming::Message:0x000000023ccb50>):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1020:3fe6:face:b00c:0:8000 at 2018-06-29 19:10:01 +0530
+Cannot render console from 2a03:2880:1020:3fe6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `nlp' for #<Facebook::Messenger::Incoming::Message:0x00000002475c50>):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1011:1fec:face:b00c:0:8000 at 2018-06-29 19:10:02 +0530
+Cannot render console from 2a03:2880:1011:1fec:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `nlp' for #<Facebook::Messenger::Incoming::Message:0x000000026cf230>):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1020:3ff5:face:b00c:0:8000 at 2018-06-29 19:10:04 +0530
+Cannot render console from 2a03:2880:1020:3ff5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `nlp' for #<Facebook::Messenger::Incoming::Message:0x000000028a7440>):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1020:3ff8:face:b00c:0:8000 at 2018-06-29 19:10:08 +0530
+Cannot render console from 2a03:2880:1020:3ff8:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `nlp' for #<Facebook::Messenger::Incoming::Message:0x00000005c62c30>):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:10ff:f00a:face:b00c:0:8000 at 2018-06-29 19:10:26 +0530
+Cannot render console from 2a03:2880:10ff:f00a:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `nlp' for #<Facebook::Messenger::Incoming::Message:0x007f65ac06dd80>):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:10ff:f010:face:b00c:0:8000 at 2018-06-29 19:14:40 +0530
+Cannot render console from 2a03:2880:10ff:f010:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `nlp' for #<Facebook::Messenger::Incoming::Message:0x00000001e2a210>):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1011:6fc2:face:b00c:0:8000 at 2018-06-29 19:14:44 +0530
+Cannot render console from 2a03:2880:1011:6fc2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `nlp' for #<Facebook::Messenger::Incoming::Message:0x000000022444e0>):
+  
+app/bot/facebook_messenger.rb:15:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:1011:6fd3:face:b00c:0:8000 at 2018-06-29 19:15:02 +0530
+Cannot render console from 2a03:2880:1011:6fd3:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+NoMethodError (undefined method `nlp' for #<Facebook::Messenger::Incoming::Message:0x000000029a2c50>):
+  
+app/bot/facebook_messenger.rb:16:in `block in <main>'
+Error occurred while parsing request parameters.
+Contents:
+
+
+Started POST "/bot" for 2a03:2880:10ff:f013:face:b00c:0:8000 at 2018-06-29 19:16:37 +0530
+Cannot render console from 2a03:2880:10ff:f013:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:1fe9:face:b00c:0:8000 at 2018-06-29 19:16:46 +0530
+Cannot render console from 2a03:2880:1011:1fe9:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd9:face:b00c:0:8000 at 2018-06-29 19:17:01 +0530
+Cannot render console from 2a03:2880:1011:6fd9:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:9fea:face:b00c:0:8000 at 2018-06-29 19:17:09 +0530
+Cannot render console from 2a03:2880:1020:9fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3ff2:face:b00c:0:8000 at 2018-06-29 19:17:24 +0530
+Cannot render console from 2a03:2880:1020:3ff2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fd4:face:b00c:0:8000 at 2018-06-29 19:17:41 +0530
+Cannot render console from 2a03:2880:1011:6fd4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc4:face:b00c:0:8000 at 2018-06-29 19:17:55 +0530
+Cannot render console from 2a03:2880:1011:6fc4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f00c:face:b00c:0:8000 at 2018-06-29 19:18:10 +0530
+Cannot render console from 2a03:2880:10ff:f00c:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:4fca:face:b00c:0:8000 at 2018-06-29 19:18:25 +0530
+Cannot render console from 2a03:2880:1011:4fca:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:5fc2:face:b00c:0:8000 at 2018-06-29 19:18:39 +0530
+Cannot render console from 2a03:2880:1030:5fc2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1010:bff4:face:b00c:0:8000 at 2018-06-29 19:18:55 +0530
+Cannot render console from 2a03:2880:1010:bff4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f00b:face:b00c:0:8000 at 2018-06-29 19:19:12 +0530
+Cannot render console from 2a03:2880:10ff:f00b:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f010:face:b00c:0:8000 at 2018-06-29 19:19:26 +0530
+Cannot render console from 2a03:2880:10ff:f010:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc5:face:b00c:0:8000 at 2018-06-29 19:19:41 +0530
+Cannot render console from 2a03:2880:1011:6fc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f00c:face:b00c:0:8000 at 2018-06-29 19:19:56 +0530
+Cannot render console from 2a03:2880:10ff:f00c:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:1feb:face:b00c:0:8000 at 2018-06-29 19:20:11 +0530
+Cannot render console from 2a03:2880:1011:1feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fdb:face:b00c:0:8000 at 2018-06-29 19:22:06 +0530
+Cannot render console from 2a03:2880:1011:6fdb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3feb:face:b00c:0:8000 at 2018-06-29 19:22:09 +0530
+Cannot render console from 2a03:2880:1020:3feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fef:face:b00c:0:8000 at 2018-06-29 19:22:32 +0530
+Cannot render console from 2a03:2880:1020:3fef:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3feb:face:b00c:0:8000 at 2018-06-29 19:22:40 +0530
+Cannot render console from 2a03:2880:1020:3feb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f012:face:b00c:0:8000 at 2018-06-29 19:22:55 +0530
+Cannot render console from 2a03:2880:10ff:f012:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:9fc2:face:b00c:0:8000 at 2018-06-29 19:23:09 +0530
+Cannot render console from 2a03:2880:1030:9fc2:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:bfc6:face:b00c:0:8000 at 2018-06-29 19:23:24 +0530
+Cannot render console from 2a03:2880:1030:bfc6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:afc5:face:b00c:0:8000 at 2018-06-29 19:23:32 +0530
+Cannot render console from 2a03:2880:1030:afc5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f011:face:b00c:0:8000 at 2018-06-29 19:24:03 +0530
+Cannot render console from 2a03:2880:10ff:f011:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3ff0:face:b00c:0:8000 at 2018-06-29 19:24:17 +0530
+Cannot render console from 2a03:2880:1020:3ff0:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:10ff:f011:face:b00c:0:8000 at 2018-06-29 19:24:32 +0530
+Cannot render console from 2a03:2880:10ff:f011:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fef:face:b00c:0:8000 at 2018-06-29 19:24:47 +0530
+Cannot render console from 2a03:2880:1020:3fef:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3fea:face:b00c:0:8000 at 2018-06-29 19:25:02 +0530
+Cannot render console from 2a03:2880:1020:3fea:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:3ff6:face:b00c:0:8000 at 2018-06-29 19:25:21 +0530
+Cannot render console from 2a03:2880:1020:3ff6:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1020:dfe5:face:b00c:0:8000 at 2018-06-29 19:25:25 +0530
+Cannot render console from 2a03:2880:1020:dfe5:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1030:3fe4:face:b00c:0:8000 at 2018-06-29 19:25:42 +0530
+Cannot render console from 2a03:2880:1030:3fe4:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:4fc9:face:b00c:0:8000 at 2018-06-29 19:25:57 +0530
+Cannot render console from 2a03:2880:1011:4fc9:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fc1:face:b00c:0:8000 at 2018-06-29 19:26:00 +0530
+Cannot render console from 2a03:2880:1011:6fc1:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started POST "/bot" for 2a03:2880:1011:6fdb:face:b00c:0:8000 at 2018-07-02 15:29:57 +0530
+Cannot render console from 2a03:2880:1011:6fdb:face:b00c:0:8000! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
