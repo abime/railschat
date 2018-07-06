@@ -33,24 +33,23 @@ end
 
 
 Bot.on :postback do |postback|
-  existing_user_id = postback.sender["id"]
   postback.mark_seen
   postback.typing_on
+  
   visitor_id = postback.sender["id"]
   response = HTTParty.get('https://graph.facebook.com/v2.6/'+visitor_id+'?fields=first_name,last_name,profile_pic&access_token='+ENV['ACCESS_TOKEN']  , format: :plain)
   visitor_hash = JSON.parse response, symbolize_names: true
-  binding.pry
-  Visitor.find(_id: existing_user_id)
-  visitor = Visitor.new
-  visitor.sender_id
-  visitor.first_name = visitor_hash[:first_name]
-  visitor.last_name = visitor_hash[:last_name]
-  visitor.messages = message_array
-  visitor.save!
+ 
 
+  if Visitor.where(s_id: visitor_id).count < 1
+    visitor = Visitor.new
+    visitor.s_id = visitor_id
+    visitor.first_name = visitor_hash[:first_name]
+    visitor.last_name = visitor_hash[:last_name]
+    visitor.messages = message_array
+    visitor.save
+  end  
 
-
-  binding.pry
   case postback.payload 
   when "MENU"  
     postback.reply(
@@ -60,23 +59,31 @@ Bot.on :postback do |postback|
         template_type: 'button',
         text: 'WELCOME TO WEDDING BOOTH !!',
         buttons: [
-          { type: 'postback', title: 'Hire photographer', payload: 'hire' },
-          { type: 'postback', title: 'Phto Stories', payload: 'photo_galleries' },
+          { type: 'postback', title: 'Rate card', payload: 'prospectus' },
+          { type: 'postback', title: 'Gallery', payload: 'photo_galleries' },
           { type: 'postback', title: 'Know us', payload: 'know_us' }
         ]
       }
     }
   )
 
-  when 'categories'
-
+  when "prospectus"
+    postback.reply(
+      attachment: {
+        type: 'file',
+        payload: {
+          url: 'https://drive.google.com/uc?export=download&id=1TmRGbZoY2Km7xaXWwd5pV9fX1TegiiAU'
+        }
+      }
+    )
+  
 
   when 'photo_galleries'
-    message.reply(
+    postback.reply(
       attachment: {
         type: 'image',
         payload: {
-          url: 'https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940'
+          url: 'https://i1.wp.com/www.karantongay.in/wp-content/uploads/2018/03/balance-3062272_1920.jpg?resize=500%2C333'
         }
       }
     )
