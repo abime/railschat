@@ -12,15 +12,21 @@ message_array = []
 Bot.on :message do |message|
   message.mark_seen
   message.typing_on
-  message_array << message.text 
+  message_array << message.text
+  visitor_id = message.sender["id"]
+  visitor = Visitor.where(s_id: visitor_id).first
+  visitor.messages = message_array
+  visitor.save  
+  
   p "###______________________________" 
-  p message_array 
+  p message_array
+   message.reply(text: "Hello Human, I am TWB's personal assistent.") 
    message.reply(
     attachment: {
       type: 'template',
       payload: {
         template_type: 'button',
-        text: 'Hello Beautiful Human , lets take a walk',
+        text: "Want to know What we do.",
         buttons: [
           { type: 'postback', title: 'Yes', payload: 'MENU' },
           { type: 'postback', title: 'No', payload: 'negetive' }
@@ -39,8 +45,6 @@ Bot.on :postback do |postback|
   visitor_id = postback.sender["id"]
   response = HTTParty.get('https://graph.facebook.com/v2.6/'+visitor_id+'?fields=first_name,last_name,profile_pic&access_token='+ENV['ACCESS_TOKEN']  , format: :plain)
   visitor_hash = JSON.parse response, symbolize_names: true
- 
-
   if Visitor.where(s_id: visitor_id).count < 1
     visitor = Visitor.new
     visitor.s_id = visitor_id
@@ -48,7 +52,7 @@ Bot.on :postback do |postback|
     visitor.last_name = visitor_hash[:last_name]
     visitor.messages = message_array
     visitor.save
-  end  
+  end
 
   case postback.payload 
   when "MENU"  
@@ -59,7 +63,7 @@ Bot.on :postback do |postback|
         template_type: 'button',
         text: 'WELCOME TO WEDDING BOOTH !!',
         buttons: [
-          { type: 'postback', title: 'Rate card', payload: 'prospectus' },
+          { type: 'postback', title: 'Prospectus', payload: 'prospectus' },
           { type: 'postback', title: 'Gallery', payload: 'photo_galleries' },
           { type: 'postback', title: 'Know us', payload: 'know_us' }
         ]
@@ -79,14 +83,36 @@ Bot.on :postback do |postback|
   
 
   when 'photo_galleries'
+    image_ids = []
+    session = GoogleDrive::Session.from_config("config.json") 
+    a = session.folders_by_name("The Wedding Booth")
+    a.files.each{|a| image_ids<< a.id }
+    images_to_show = image_ids.sample(3)
+    postback.reply(text: "Wait. . . Fetching best from our collection")
+
     postback.reply(
       attachment: {
         type: 'image',
         payload: {
-          url: 'https://i1.wp.com/www.karantongay.in/wp-content/uploads/2018/03/balance-3062272_1920.jpg?resize=500%2C333'
+          url: 'https://drive.google.com/uc?export=download&id='+images_to_show[0]
         }
       }
     )
+
+    postback.reply(
+      attachment: {
+      type: 'template',
+      payload: {
+        template_type: 'button',
+        text: "want to see more ? ",
+        buttons: [
+          { type: 'postback', title: 'Show more', payload: 'photo_galleries' },
+          { type: 'postback', title: 'Menu', payload: 'MENU' },
+        ]
+      }
+    }
+  )
+
 
 
   when 'know_us'
@@ -148,20 +174,6 @@ end
 #   message.typing_on
 #   message.reply(text: to_reply)
 #   message.typng_off
-# end
-
-
-
-# def reply_gen(message_detail)
-#   abbrevations = ["hey","hello","how are you?","hi"]
-
-#   if abbrevations.include?message_detail["text"]
-#     return "How may i help you??"
-#   elsif message_detail["text"] == "weather"
-#     return
-#   else    
-#     return "nacho"
-#   end    
 # end
 
 
