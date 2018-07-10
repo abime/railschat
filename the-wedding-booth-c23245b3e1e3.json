@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "the-wedding-booth",
+  "private_key_id": "c23245b3e1e3483ba78f3b5bb12332fe5e2a1b21",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4b0e/v2n+/lqi\nc29+cMDZX0TKKaABcXBlC+zd21/k/RxpZn1A2vZZdcibpPxa0WUIzLoTLfAcjFE7\nIwWzgeOSDXBvvXDJqyrsRWhsdGs9VCIE52hyMnVEJ2KLbUy4LDJITFkSOE8bF0AE\nSsnS3KU7nL+Puf+CzMS/byXFeUjpQag8muQYFdjgCgSNLW46/1sQOFZDLrMdPIOE\n7acv6FxSSROMcSFdh9tP+pgCzo6/N9BG5h3b1JC+dsNJwBUc/JGBVWtsvWbaE44q\nsaha+Vk5OpOE800cv2HVawidVibdKqLGN57iU48xIsLE/fiCE6SaZ00QfzbzsILo\nsnSSI2mnAgMBAAECggEAA3A4OrWxDB0mPrLs8WeUAfTZ7/RVIj0uqQS80xbd+Cf5\nRR/DhCnMSO31Rq2NhNXrPFlnll7yzRROBxe1aW3ysV6SV4ryy7Md26p74D7gzcpk\nq65OKmNsSPTFlXiPPoUqsoZ+/uQIRzjxq14+bI0mW7nu3uJvmIQEVY2XH7+yTzUv\nOe2b9Od8+AwV5whTz0SvtNRrM99a5L67o2x87wAkAN6DQUXAUAG5gYGtNSlS13zj\nzvU0lmQty/YAzgMCIrj/jOCYE25jzanY0BO6HRMxU8SUTgX+McN4PKXCbnUjno0c\nSRKak2mwgoOMmUrEjVOc3vRCXQHMq37RolE6DE0IVQKBgQDuEsz9WQhSLnP47Ke6\nWtmBcKgkUfWZhAHu1uMnLzVZwfnIkMzZSd5R1FGlUhIgQmAgt7ggbjvlWf9eovYl\nXTeHKKLgaWhGaEDHNOPUwWXC2AWxcbJeY69w3S6gGqtXfrVvqRsFQjdetJiLob/f\nZMi8mWhp/6O/MpK0GWxaCWWAjQKBgQDGUoR0nB4uLNKnpE413lZ3WcOF4zenAokm\nFx+aQZP0NXmyU3K9bx0x0kbu5JaJOink13MM4hGeTChzHvK74xec1WWj/JMsURce\nYTlwmAfaEOL4yaGo1gSNQQiA1IiUrQNay86+aMieTBD+dpp1WPGqTGYiJzpVIpwc\nqouqakiIAwKBgQCAZINI3osuRv8kb/zE89n5hNgpPkpF0Ht6Y0l+CGetUH91OyI+\nzSeo2ehuUCSWYTWWb35NfyWuOysNzrUQ0YTwz2mHvVEPJ4pH5K46P1KyEe6AE+Eu\nJnSnWaGblsZxGVSgM4LvAxb5bEwYgdMIl0Hq9JDrGYMlyhB0MIHOzOKAwQKBgBUX\njZLBT8xlY/oEVXURMmz7FPpWUgLnGCL+7pN/Sfb9APZgPaG8AYTc8kJR+Via4P2/\nlDLYkDsfqmWj8vjcjBRX9bldEWHzNdw7RtqcsKkWhq0i9Jh6On2zXu4krGnzhJnR\ndyl1B3Eeceg+QOseDIWqHmqfdWq8hZHe6X+0UgZ1AoGBAOt9aDXZUjHOQkuTmnyb\ntqs8RjldmK921V5pt3KpzRtP8U3fLlZRyUSQPrLE6XDeCrEQ7u7cpY3qXft+ymtK\n1GDyJ/v3WEpppCo40Bg1LOzrJp0Lh6cQKqRZzzuA9ljtmEcLjduEJ3+tT2TPab9c\nWeglepCEaIE+D4mMrPe5Ock2\n-----END PRIVATE KEY-----\n",
+  "client_email": "ayush-wedding-booth@the-wedding-booth.iam.gserviceaccount.com",
+  "client_id": "118336182769655427046",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ayush-wedding-booth%40the-wedding-booth.iam.gserviceaccount.com"
+}
