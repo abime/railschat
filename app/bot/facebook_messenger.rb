@@ -26,7 +26,7 @@ Bot.on :message do |message|
       type: 'template',
       payload: {
         template_type: 'button',
-        text: "Want to know What we do.",
+        text: "Want to know What we do ??",
         buttons: [
           { type: 'postback', title: 'Yes', payload: 'MENU' },
           { type: 'postback', title: 'No', payload: 'negetive' }
