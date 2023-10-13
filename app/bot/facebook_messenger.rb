@@ -14,9 +14,9 @@ Bot.on :message do |message|
   message.typing_on
   message_array << message.text
   visitor_id = message.sender["id"]
-  visitor = Visitor.where(s_id: visitor_id).first
-  visitor.messages = message_array
-  visitor.save  
+  # visitor = Visitor.where(s_id: visitor_id).first
+  # visitor.messages = message_array
+  # visitor.save  
   
   p "###______________________________" 
   p message_array
@@ -45,14 +45,14 @@ Bot.on :postback do |postback|
   visitor_id = postback.sender["id"]
   response = HTTParty.get('https://graph.facebook.com/v2.6/'+visitor_id+'?fields=first_name,last_name,profile_pic&access_token='+ENV['ACCESS_TOKEN']  , format: :plain)
   visitor_hash = JSON.parse response, symbolize_names: true
-  if Visitor.where(s_id: visitor_id).count < 1
-    visitor = Visitor.new
-    visitor.s_id = visitor_id
-    visitor.first_name = visitor_hash[:first_name]
-    visitor.last_name = visitor_hash[:last_name]
-    visitor.messages = message_array
-    visitor.save
-  end
+  # if Visitor.where(s_id: visitor_id).count < 1
+  #   visitor = Visitor.new
+  #   visitor.s_id = visitor_id
+  #   visitor.first_name = visitor_hash[:first_name]
+  #   visitor.last_name = visitor_hash[:last_name]
+  #   visitor.messages = message_array
+  #   visitor.save
+  # end
 
   case postback.payload 
   when "MENU"  
